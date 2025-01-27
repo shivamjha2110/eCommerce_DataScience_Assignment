@@ -29,7 +29,7 @@ This repository contains the solution to the eCommerce Data Science Assignment, 
 - **Deliverables:**
   - `FirstName_LastName_Clustering.ipynb`: Code for clustering and evaluation metrics.
   - `FirstName_LastName_Clustering.pdf`: Report summarizing clustering results and visualizations.
-  - `FirstName_LastName_Clustering.png`: Clustering visualizations.
+  - `FirstName_LastName_ClusteringPlot.png`: Clustering visualizations.
 
 ---
 
